@@ -252,12 +252,6 @@ nav {
     margin-bottom: 5px;
 }
 
-@media (max-width:1150px) {
-    .header_btn {
-        width: 50%;
-    }
-}
-
 @media (max-width:600px) {
     .last {
         display: none;
@@ -309,9 +303,6 @@ nav {
     .footer button {
         width: 100%;
     }
-}
-
-@media (max-width:1350px) {
     .section {
         display: none;
     }
